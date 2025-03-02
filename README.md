@@ -10,7 +10,7 @@ I experimented with:
 - Random Forest
 - CatBoost
 
-My final model managed to achieve an average accuracy of 0.9994, average precision of 0.978, average recall of 0.926 and average f1 score of 0.95.
+My final model managed to achieve an average accuracy of 0.9994, average precision of 0.978, average recall of 0.926 and average f1 score of 0.95 across 5 cross validation folds.
 
 Written reflection of the steps, approaches and decisions I made during this analysis can be found documented throughout the notebooks linked.
     
